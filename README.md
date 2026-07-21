@@ -37,8 +37,8 @@ We live in exciting times, blockchain technologies allow us to build application
 - **Leadership:** Product management, development team lead, onboarded and mentored team members
 - **Agentic Engineering:** Ralph loop orchestrator, Claude Code Agents, spec-kit, Oh My Claude, gstack.
 - **Spoken languages:** Spanish (native), English (C1)
-
-### Publications 📑
+<details>
+<summary> ### Publications 📑</summary>
 
 - [A Peer-To-Peer Ownership-Preserving Data Marketplace](https://ieeexplore.ieee.org/abstract/document/9680477/). 4th IEEE 2021. First author. 13 citations.
 - [A Support Vector Machine Implementation for Traffic Assignment Problem](https://dl.acm.org/doi/abs/10.1145/3479240.3488502). ACM PE-WASUN 2021. Co-first author. 3 citations.
@@ -48,8 +48,9 @@ We live in exciting times, blockchain technologies allow us to build application
 - [State of Private Voting 2026](https://pse.dev/blog/state-of-private-voting-2026). PSE Blog, November 2025
 - [The case for privacy in DAO voting](https://pse.dev/blog/the-case-for-privacy-in-dao-voting). PSE Blog. August 2025
 - [MACI v4 research](https://pse-team.notion.site/maci-v4-research): Threshold encryption; Decentralized Key Generation (DKG). July 2025
-- [Privacy in lending protocols](https://paragraph.com/@privacy-chronicles-of-ethereum/privacy-in-lending-protocols). Personal blog, July 2026
-​- Commenter: [Wormholes and the Cost of Plausible Deniability](https://ethresear.ch/t/wormholes-and-the-cost-of-plausible-deniability/23728). December 2025.
+- [Privacy in lending protocols](https://paragraph.com/@privacy-chronicles-of-ethereum/privacy-in-lending-protocols). Personal blog, July 2026.
+- Commenter: [Wormholes and the Cost of Plausible Deniability](https://ethresear.ch/t/wormholes-and-the-cost-of-plausible-deniability/23728). December 2025.
+</details>
 
 ### Hobbies ​🎨​
 
