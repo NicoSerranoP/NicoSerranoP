@@ -38,7 +38,7 @@ We live in exciting times, blockchain technologies allow us to build application
 - **Agentic Engineering:** Ralph loop orchestrator, Claude Code Agents, spec-kit, Oh My Claude, gstack.
 - **Spoken languages:** Spanish (native), English (C1)
 <details>
-<summary> ### Publications 📑</summary>
+<summary>### Publications 📑</summary>
 
 - [A Peer-To-Peer Ownership-Preserving Data Marketplace](https://ieeexplore.ieee.org/abstract/document/9680477/). 4th IEEE 2021. First author. 13 citations.
 - [A Support Vector Machine Implementation for Traffic Assignment Problem](https://dl.acm.org/doi/abs/10.1145/3479240.3488502). ACM PE-WASUN 2021. Co-first author. 3 citations.
