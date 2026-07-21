@@ -1,7 +1,6 @@
 <img width="500" height="295" alt="Nico Serrano Thinking " src="https://github.com/user-attachments/assets/e16e0fe2-81e0-4654-adb1-a2a22b4c5c6a" />
 
-
-## Full Stack Software Engineer | ZK & Privacy Engineer
+<h2 align="center">Full Stack Software Engineer | ZK & Privacy Engineer</h2>
 
 We live in exciting times, blockchain technologies allow us to build applications that put users first. The world computer needs to be permissionless, auditable, censorship-resistant, open-source and have native privacy in order for the humanity to trust it and build critical applications on top of it. My goal is to push the world computer dream forward.
 
