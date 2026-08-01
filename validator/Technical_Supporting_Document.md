@@ -31,8 +31,6 @@ sudo chmod 755 /usr/local/bin/ethrex
 sudo systemctl start ethrex-mainnet
 ```
 
-*Remember that a jwt.hex file is generated where this command is used. The consensus client needs to know this path in order to authenticate*
-
 ## Consensus client
 [Link to documentation](https://lighthouse-book.sigmaprime.io/installation_source.html)
 
@@ -157,6 +155,7 @@ This way both users (and their services) will be able to read the file.
 ```bash
 openssl rand -hex 32 | tr -d "\n" > jwt-hoodi.hex
 ```
+*Remember that a jwt.hex file is generated where this command is used. The consensus client needs to know this path in order to authenticate. You can change the paths in the execution and the consensus client configuration*
 
 4. Setup permissions:
 ```bash
