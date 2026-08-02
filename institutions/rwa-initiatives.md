@@ -155,7 +155,7 @@ Category grew ~2,164% year-over-year to ~$2.4B by July 2026.
 - **Source:** EIB press release
 - **URL:** https://www.eib.org/en/press/all/2021-141-european-investment-bank-eib-issues-its-first-ever-digital-bond-on-a-public-blockchain
 
-### UBS, Siemens, Société Générale — digital bond issuance
+### UBS & Siemens — digital bond issuance
 - **Description:** UBS's CHF 375M tokenized bond (2022); Siemens' €60M Polygon bond (2023) and €300M SWIAT bond (2024) under Germany's eWpG electronic-securities law. Combined tokenized bond issuance crossed $10B in early 2026. UBS also runs UBS Tokenize (money-market fund uMINT on Ethereum).
 - **Source:** Coinpaprika tokenized bonds explainer; Global Wisdom analysis
 - **URL:** https://coinpaprika.com/education/tokenized-bonds-how-world-bank-and-eib-issue-bonds-on-blockchain/ · https://www.ubs.com
@@ -193,7 +193,7 @@ Category grew ~2,164% year-over-year to ~$2.4B by July 2026.
 - **Source:** Aave launch blog; CoinDesk coverage
 - **URL:** https://aave.com/blog/horizon-launch · https://www.coindesk.com/business/2025/08/25/aave-labs-debuts-horizon-to-let-institutions-borrow-stablecoins-against-tokenized-assets
 
-### Ethena, Plume, and RWA-focused chains
+### Plume and RWA-focused chains
 - **Description:** Plume is an EVM RWA-focused chain used by Securitize and others; several Ethereum-aligned L2s (Base, Arbitrum) host the bulk of new RWA issuance outside mainnet.
 - **Source:** Chainstack platform review
 - **URL:** https://plume.org · https://chainstack.com/top-rwa-tokenization-platforms-2026/
