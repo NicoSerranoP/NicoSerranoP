@@ -39,6 +39,14 @@ For every entry in [`rwa-initiatives.md`](./rwa-initiatives.md):
 |---|---|
 | `README.md` | This research plan |
 | `rwa-initiatives.md` | Full catalog of initiatives — name, category, description, source, URL |
+| `research/01-tokenized-treasuries.md` | Deep dive: BUIDL, BENJI, OUSG/USDY — legal wrappers, compliance mechanics, on-chain leakage |
+| `research/02-compliance-standards.md` | Deep dive: ERC-3643/ONCHAINID, Securitize model, DTCC ComposerX & SEC pilot |
+| `research/03-private-credit.md` | Deep dive: Centrifuge, Maple, Goldfinch, Apollo ACRED — SPV structures, tranching |
+| `research/04-equities-bonds-commodities.md` | Deep dive: Ondo GM, Backed, Dinari, Robinhood; EIB/UBS/Siemens bonds; PAXG/XAUT; RealT |
+| `research/05-bank-money-defi-pilots.md` | Deep dive: Kinexys/JPMD on Base, Aave Horizon, Sky, Project Guardian |
+| `research/06-privacy-landscape.md` | Deep dive: EthSystems, IPTF/EF context, ZK/FHE/TEE trade-offs, per-category leakage map, interview synthesis |
+
+**Research status: complete** (initial pass, 2026-08-02). Remaining follow-ups: read EthSystems' open-source repos at ethsystems.org; re-check AUM figures monthly.
 
 ## 5. Interview-preparation angles (EthSystems specific)
 
