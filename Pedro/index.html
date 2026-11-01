@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Lore &amp; Pedro · 30 de enero de 2027</title>
+  <meta name="description" content="Confirma tu asistencia a la boda de Lore y Pedro en Cuenca, Ecuador." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Great+Vibes&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Scroll-driven intro: the tall section gives scroll distance, the stage stays pinned -->
+  <section class="intro" id="intro">
+    <div class="stage">
+      <img class="invite" id="invite" src="invitacion.jpg" alt="Save the date: Lore &amp; Pedro, 30 de enero de 2027, Cuenca, Ecuador" />
+      <div class="glow" id="glow"></div>
+      <p class="hint" id="hint">Desliza para entrar<span>⌄</span></p>
+    </div>
+  </section>
+
+  <main class="rsvp" id="rsvp">
+    <p class="eyebrow">Bienvenidos</p>
+    <h1 class="names">Lore &amp; Pedro</h1>
+    <p class="details">30 de enero de 2027<br />Cuenca, Ecuador</p>
+
+    <form id="rsvp-form" class="card" novalidate>
+      <h2>Confirma tu asistencia</h2>
+
+      <label>
+        Nombre completo
+        <input name="nombre" type="text" autocomplete="name" required />
+      </label>
+
+      <fieldset>
+        <legend>¿Nos acompañas?</legend>
+        <label class="choice"><input type="radio" name="asistencia" value="si" required /> ¡Sí, ahí estaré!</label>
+        <label class="choice"><input type="radio" name="asistencia" value="no" /> No podré asistir</label>
+      </fieldset>
+
+      <div id="attending-fields">
+        <label>
+          Número de personas (incluyéndote)
+          <input name="personas" type="number" min="1" max="10" value="1" inputmode="numeric" />
+        </label>
+        <label>
+          Restricciones alimentarias
+          <input name="restricciones" type="text" placeholder="Vegetariano, alergias…" />
+        </label>
+      </div>
+
+      <label>
+        Mensaje para los novios (opcional)
+        <textarea name="mensaje" rows="3"></textarea>
+      </label>
+
+      <p class="error" id="error" role="alert"></p>
+      <button type="submit">Enviar</button>
+    </form>
+
+    <div class="card thanks" id="thanks" hidden>
+      <h2>¡Gracias!</h2>
+      <p id="thanks-text"></p>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
